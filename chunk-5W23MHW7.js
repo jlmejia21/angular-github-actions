@@ -1,0 +1,1 @@
+import{Ca as p,qa as o,ya as n,za as a}from"./chunk-MSUIDHIR.js";var i=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-about"]],decls:2,vars:0,template:function(e,c){e&1&&(n(0,"p"),p(1,"Trabajitos de conejo con sugerncia de coneja"),a())},encapsulation:2})};export{i as AboutComponent};
